@@ -13,12 +13,6 @@ A web-based digit classifier that uses a Convolutional Neural Network (CNN) trai
 ---
 
 ## 📁 Project Structure
+Digit_Prediction_Using_CNN_Flask/ ├── app.py ├── model.hdf5 ├── index.html ├── result.html ├── requirement.txt └── README.md
 
-Digit_Prediction_Using_CNN_Flask/
-│
-├── app.py # Flask application logic
-├── model.hdf5 # Trained Keras CNN model
-├── index.html # Upload form
-├── result.html # Result display
-├── requirement.txt # Python dependencies
-└── README.md # This file
+
